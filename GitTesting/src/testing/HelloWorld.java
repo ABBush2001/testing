@@ -6,6 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello world!");
 		System.out.println("New line!");
+		System.out.println("Another test");
 
 	}
 
